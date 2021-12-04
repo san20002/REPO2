@@ -9,19 +9,19 @@
   "servers": [
     {
       "id": "fiverr-1.12.2",
-      "name": "fiverr (Minecraft 1.12.2)",
+      "name": "Manvel High School",
       "description": "fiverr Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "209.192.246.222:25588",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2855:universal",
