@@ -301,7 +301,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4696621,
-            "url": "https://fiverr.cu.ma/servers/fiverr-1.12.2/forgemods/required/BiomesOPlenty.jar",
+            "url": "http://fiverr.cu.ma/servers/fiverr-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
             "MD5": "61fcc4ffff205ca261e61d6772debc4d"
           }
         },
@@ -311,7 +311,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 734597,
-            "url": "https://fiverr.cu.ma/servers/fiverr-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+            "url": "https://fiverr.cu.ma/servers/fiverr-1.12.2/forgemods/required/Cathedral-1.12.2-1.9.9.jar",
             "MD5": "fd42701da6271f40bd707aa42f2556ed"
           }
         },
